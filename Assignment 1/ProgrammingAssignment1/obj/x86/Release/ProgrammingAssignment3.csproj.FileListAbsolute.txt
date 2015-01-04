@@ -1,0 +1,6 @@
+C:\Users\Ismail\AppData\Local\Temporary Projects\ProgrammingAssignment3\bin\Release\ProgrammingAssignment3.exe
+C:\Users\Ismail\AppData\Local\Temporary Projects\ProgrammingAssignment3\bin\Release\ProgrammingAssignment3.pdb
+C:\Users\Ismail\AppData\Local\Temporary Projects\ProgrammingAssignment3\bin\Release\ConsoleCards.dll
+C:\Users\Ismail\AppData\Local\Temporary Projects\ProgrammingAssignment3\obj\x86\Release\ProgrammingAssignment3.csprojResolveAssemblyReference.cache
+C:\Users\Ismail\AppData\Local\Temporary Projects\ProgrammingAssignment3\obj\x86\Release\ProgrammingAssignment3.exe
+C:\Users\Ismail\AppData\Local\Temporary Projects\ProgrammingAssignment3\obj\x86\Release\ProgrammingAssignment3.pdb

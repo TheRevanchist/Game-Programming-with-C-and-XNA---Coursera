@@ -1,0 +1,6 @@
+D:\Coursera\Game developing with C# and XNA\Week 3 - Project\ProgrammingAssignment3\ProgrammingAssignment3\ProgrammingAssignment3\bin\Release\ProgrammingAssignment3.exe
+D:\Coursera\Game developing with C# and XNA\Week 3 - Project\ProgrammingAssignment3\ProgrammingAssignment3\ProgrammingAssignment3\bin\Release\ProgrammingAssignment3.pdb
+D:\Coursera\Game developing with C# and XNA\Week 3 - Project\ProgrammingAssignment3\ProgrammingAssignment3\ProgrammingAssignment3\bin\Release\ConsoleCards.dll
+D:\Coursera\Game developing with C# and XNA\Week 3 - Project\ProgrammingAssignment3\ProgrammingAssignment3\ProgrammingAssignment3\obj\x86\Release\ProgrammingAssignment3.csprojResolveAssemblyReference.cache
+D:\Coursera\Game developing with C# and XNA\Week 3 - Project\ProgrammingAssignment3\ProgrammingAssignment3\ProgrammingAssignment3\obj\x86\Release\ProgrammingAssignment3.exe
+D:\Coursera\Game developing with C# and XNA\Week 3 - Project\ProgrammingAssignment3\ProgrammingAssignment3\ProgrammingAssignment3\obj\x86\Release\ProgrammingAssignment3.pdb

@@ -1,0 +1,130 @@
+D:\Courses\MOOC\GDD 1200\Programming Assignments\Programming Assignment 6\Materials\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Back.xnb
+D:\Courses\MOOC\GDD 1200\Programming Assignments\Programming Assignment 6\Materials\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\collectwinningsbutton.xnb
+D:\Courses\MOOC\GDD 1200\Programming Assignments\Programming Assignment 6\Materials\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\flipbutton.xnb
+D:\Courses\MOOC\GDD 1200\Programming Assignments\Programming Assignment 6\Materials\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\quitbutton.xnb
+D:\Courses\MOOC\GDD 1200\Programming Assignments\Programming Assignment 6\Materials\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\winner.xnb
+D:\Courses\MOOC\GDD 1200\Programming Assignments\Programming Assignment 6\Materials\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\Ace.xnb
+D:\Courses\MOOC\GDD 1200\Programming Assignments\Programming Assignment 6\Materials\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\Eight.xnb
+D:\Courses\MOOC\GDD 1200\Programming Assignments\Programming Assignment 6\Materials\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\Five.xnb
+D:\Courses\MOOC\GDD 1200\Programming Assignments\Programming Assignment 6\Materials\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\Four.xnb
+D:\Courses\MOOC\GDD 1200\Programming Assignments\Programming Assignment 6\Materials\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\Jack.xnb
+D:\Courses\MOOC\GDD 1200\Programming Assignments\Programming Assignment 6\Materials\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\King.xnb
+D:\Courses\MOOC\GDD 1200\Programming Assignments\Programming Assignment 6\Materials\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\Nine.xnb
+D:\Courses\MOOC\GDD 1200\Programming Assignments\Programming Assignment 6\Materials\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\Queen.xnb
+D:\Courses\MOOC\GDD 1200\Programming Assignments\Programming Assignment 6\Materials\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\Seven.xnb
+D:\Courses\MOOC\GDD 1200\Programming Assignments\Programming Assignment 6\Materials\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\Six.xnb
+D:\Courses\MOOC\GDD 1200\Programming Assignments\Programming Assignment 6\Materials\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\Ten.xnb
+D:\Courses\MOOC\GDD 1200\Programming Assignments\Programming Assignment 6\Materials\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\Three.xnb
+D:\Courses\MOOC\GDD 1200\Programming Assignments\Programming Assignment 6\Materials\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\Two.xnb
+D:\Courses\MOOC\GDD 1200\Programming Assignments\Programming Assignment 6\Materials\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\Ace.xnb
+D:\Courses\MOOC\GDD 1200\Programming Assignments\Programming Assignment 6\Materials\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\Eight.xnb
+D:\Courses\MOOC\GDD 1200\Programming Assignments\Programming Assignment 6\Materials\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\Five.xnb
+D:\Courses\MOOC\GDD 1200\Programming Assignments\Programming Assignment 6\Materials\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\Four.xnb
+D:\Courses\MOOC\GDD 1200\Programming Assignments\Programming Assignment 6\Materials\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\Jack.xnb
+D:\Courses\MOOC\GDD 1200\Programming Assignments\Programming Assignment 6\Materials\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\King.xnb
+D:\Courses\MOOC\GDD 1200\Programming Assignments\Programming Assignment 6\Materials\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\Nine.xnb
+D:\Courses\MOOC\GDD 1200\Programming Assignments\Programming Assignment 6\Materials\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\Queen.xnb
+D:\Courses\MOOC\GDD 1200\Programming Assignments\Programming Assignment 6\Materials\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\Seven.xnb
+D:\Courses\MOOC\GDD 1200\Programming Assignments\Programming Assignment 6\Materials\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\Six.xnb
+D:\Courses\MOOC\GDD 1200\Programming Assignments\Programming Assignment 6\Materials\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\Ten.xnb
+D:\Courses\MOOC\GDD 1200\Programming Assignments\Programming Assignment 6\Materials\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\Three.xnb
+D:\Courses\MOOC\GDD 1200\Programming Assignments\Programming Assignment 6\Materials\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\Two.xnb
+D:\Courses\MOOC\GDD 1200\Programming Assignments\Programming Assignment 6\Materials\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\Ace.xnb
+D:\Courses\MOOC\GDD 1200\Programming Assignments\Programming Assignment 6\Materials\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\Eight.xnb
+D:\Courses\MOOC\GDD 1200\Programming Assignments\Programming Assignment 6\Materials\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\Five.xnb
+D:\Courses\MOOC\GDD 1200\Programming Assignments\Programming Assignment 6\Materials\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\Four.xnb
+D:\Courses\MOOC\GDD 1200\Programming Assignments\Programming Assignment 6\Materials\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\Jack.xnb
+D:\Courses\MOOC\GDD 1200\Programming Assignments\Programming Assignment 6\Materials\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\King.xnb
+D:\Courses\MOOC\GDD 1200\Programming Assignments\Programming Assignment 6\Materials\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\Nine.xnb
+D:\Courses\MOOC\GDD 1200\Programming Assignments\Programming Assignment 6\Materials\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\Queen.xnb
+D:\Courses\MOOC\GDD 1200\Programming Assignments\Programming Assignment 6\Materials\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\Seven.xnb
+D:\Courses\MOOC\GDD 1200\Programming Assignments\Programming Assignment 6\Materials\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\Six.xnb
+D:\Courses\MOOC\GDD 1200\Programming Assignments\Programming Assignment 6\Materials\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\Ten.xnb
+D:\Courses\MOOC\GDD 1200\Programming Assignments\Programming Assignment 6\Materials\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\Three.xnb
+D:\Courses\MOOC\GDD 1200\Programming Assignments\Programming Assignment 6\Materials\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\Two.xnb
+D:\Courses\MOOC\GDD 1200\Programming Assignments\Programming Assignment 6\Materials\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\Ace.xnb
+D:\Courses\MOOC\GDD 1200\Programming Assignments\Programming Assignment 6\Materials\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\Eight.xnb
+D:\Courses\MOOC\GDD 1200\Programming Assignments\Programming Assignment 6\Materials\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\Five.xnb
+D:\Courses\MOOC\GDD 1200\Programming Assignments\Programming Assignment 6\Materials\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\Four.xnb
+D:\Courses\MOOC\GDD 1200\Programming Assignments\Programming Assignment 6\Materials\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\Jack.xnb
+D:\Courses\MOOC\GDD 1200\Programming Assignments\Programming Assignment 6\Materials\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\King.xnb
+D:\Courses\MOOC\GDD 1200\Programming Assignments\Programming Assignment 6\Materials\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\Nine.xnb
+D:\Courses\MOOC\GDD 1200\Programming Assignments\Programming Assignment 6\Materials\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\Queen.xnb
+D:\Courses\MOOC\GDD 1200\Programming Assignments\Programming Assignment 6\Materials\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\Seven.xnb
+D:\Courses\MOOC\GDD 1200\Programming Assignments\Programming Assignment 6\Materials\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\Six.xnb
+D:\Courses\MOOC\GDD 1200\Programming Assignments\Programming Assignment 6\Materials\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\Ten.xnb
+D:\Courses\MOOC\GDD 1200\Programming Assignments\Programming Assignment 6\Materials\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\Three.xnb
+D:\Courses\MOOC\GDD 1200\Programming Assignments\Programming Assignment 6\Materials\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\Two.xnb
+D:\Courses\MOOC\GDD 1200\Programming Assignments\Programming Assignment 6\Materials\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\ProgrammingAssignment6.exe
+D:\Courses\MOOC\GDD 1200\Programming Assignments\Programming Assignment 6\Materials\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\ProgrammingAssignment6.pdb
+D:\Courses\MOOC\GDD 1200\Programming Assignments\Programming Assignment 6\Materials\ProgrammingAssignment6\ProgrammingAssignment6\obj\x86\Debug\ProgrammingAssignment6.csprojResolveAssemblyReference.cache
+D:\Courses\MOOC\GDD 1200\Programming Assignments\Programming Assignment 6\Materials\ProgrammingAssignment6\ProgrammingAssignment6\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Courses\MOOC\GDD 1200\Programming Assignments\Programming Assignment 6\Materials\ProgrammingAssignment6\ProgrammingAssignment6\obj\x86\Debug\ProgrammingAssignment6.exe
+D:\Courses\MOOC\GDD 1200\Programming Assignments\Programming Assignment 6\Materials\ProgrammingAssignment6\ProgrammingAssignment6\obj\x86\Debug\ProgrammingAssignment6.pdb
+D:\Courses\MOOC\GDD 1200\Programming Assignments\Programming Assignment 6\Materials\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\XnaCards.dll
+D:\Coursera\Game developing with C# and XNA\Week 6 - Project\gameprogramming-required_assessment_materials-ProgrammingAssignment6Materials\ProgrammingAssignment6\ProgrammingAssignment6\obj\x86\Debug\ProgrammingAssignment6.exe
+D:\Coursera\Game developing with C# and XNA\Week 6 - Project\gameprogramming-required_assessment_materials-ProgrammingAssignment6Materials\ProgrammingAssignment6\ProgrammingAssignment6\obj\x86\Debug\ProgrammingAssignment6.pdb
+D:\Coursera\Game developing with C# and XNA\Week 6 - Project\Programming Assignment 6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Back.xnb
+D:\Coursera\Game developing with C# and XNA\Week 6 - Project\Programming Assignment 6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\collectwinningsbutton.xnb
+D:\Coursera\Game developing with C# and XNA\Week 6 - Project\Programming Assignment 6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\flipbutton.xnb
+D:\Coursera\Game developing with C# and XNA\Week 6 - Project\Programming Assignment 6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\quitbutton.xnb
+D:\Coursera\Game developing with C# and XNA\Week 6 - Project\Programming Assignment 6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\winner.xnb
+D:\Coursera\Game developing with C# and XNA\Week 6 - Project\Programming Assignment 6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\Ace.xnb
+D:\Coursera\Game developing with C# and XNA\Week 6 - Project\Programming Assignment 6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\Eight.xnb
+D:\Coursera\Game developing with C# and XNA\Week 6 - Project\Programming Assignment 6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\Five.xnb
+D:\Coursera\Game developing with C# and XNA\Week 6 - Project\Programming Assignment 6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\Four.xnb
+D:\Coursera\Game developing with C# and XNA\Week 6 - Project\Programming Assignment 6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\Jack.xnb
+D:\Coursera\Game developing with C# and XNA\Week 6 - Project\Programming Assignment 6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\King.xnb
+D:\Coursera\Game developing with C# and XNA\Week 6 - Project\Programming Assignment 6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\Nine.xnb
+D:\Coursera\Game developing with C# and XNA\Week 6 - Project\Programming Assignment 6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\Queen.xnb
+D:\Coursera\Game developing with C# and XNA\Week 6 - Project\Programming Assignment 6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\Seven.xnb
+D:\Coursera\Game developing with C# and XNA\Week 6 - Project\Programming Assignment 6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\Six.xnb
+D:\Coursera\Game developing with C# and XNA\Week 6 - Project\Programming Assignment 6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\Ten.xnb
+D:\Coursera\Game developing with C# and XNA\Week 6 - Project\Programming Assignment 6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\Three.xnb
+D:\Coursera\Game developing with C# and XNA\Week 6 - Project\Programming Assignment 6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Clubs\Two.xnb
+D:\Coursera\Game developing with C# and XNA\Week 6 - Project\Programming Assignment 6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\Ace.xnb
+D:\Coursera\Game developing with C# and XNA\Week 6 - Project\Programming Assignment 6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\Eight.xnb
+D:\Coursera\Game developing with C# and XNA\Week 6 - Project\Programming Assignment 6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\Five.xnb
+D:\Coursera\Game developing with C# and XNA\Week 6 - Project\Programming Assignment 6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\Four.xnb
+D:\Coursera\Game developing with C# and XNA\Week 6 - Project\Programming Assignment 6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\Jack.xnb
+D:\Coursera\Game developing with C# and XNA\Week 6 - Project\Programming Assignment 6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\King.xnb
+D:\Coursera\Game developing with C# and XNA\Week 6 - Project\Programming Assignment 6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\Nine.xnb
+D:\Coursera\Game developing with C# and XNA\Week 6 - Project\Programming Assignment 6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\Queen.xnb
+D:\Coursera\Game developing with C# and XNA\Week 6 - Project\Programming Assignment 6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\Seven.xnb
+D:\Coursera\Game developing with C# and XNA\Week 6 - Project\Programming Assignment 6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\Six.xnb
+D:\Coursera\Game developing with C# and XNA\Week 6 - Project\Programming Assignment 6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\Ten.xnb
+D:\Coursera\Game developing with C# and XNA\Week 6 - Project\Programming Assignment 6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\Three.xnb
+D:\Coursera\Game developing with C# and XNA\Week 6 - Project\Programming Assignment 6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Diamonds\Two.xnb
+D:\Coursera\Game developing with C# and XNA\Week 6 - Project\Programming Assignment 6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\Ace.xnb
+D:\Coursera\Game developing with C# and XNA\Week 6 - Project\Programming Assignment 6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\Eight.xnb
+D:\Coursera\Game developing with C# and XNA\Week 6 - Project\Programming Assignment 6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\Five.xnb
+D:\Coursera\Game developing with C# and XNA\Week 6 - Project\Programming Assignment 6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\Four.xnb
+D:\Coursera\Game developing with C# and XNA\Week 6 - Project\Programming Assignment 6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\Jack.xnb
+D:\Coursera\Game developing with C# and XNA\Week 6 - Project\Programming Assignment 6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\King.xnb
+D:\Coursera\Game developing with C# and XNA\Week 6 - Project\Programming Assignment 6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\Nine.xnb
+D:\Coursera\Game developing with C# and XNA\Week 6 - Project\Programming Assignment 6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\Queen.xnb
+D:\Coursera\Game developing with C# and XNA\Week 6 - Project\Programming Assignment 6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\Seven.xnb
+D:\Coursera\Game developing with C# and XNA\Week 6 - Project\Programming Assignment 6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\Six.xnb
+D:\Coursera\Game developing with C# and XNA\Week 6 - Project\Programming Assignment 6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\Ten.xnb
+D:\Coursera\Game developing with C# and XNA\Week 6 - Project\Programming Assignment 6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\Three.xnb
+D:\Coursera\Game developing with C# and XNA\Week 6 - Project\Programming Assignment 6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Hearts\Two.xnb
+D:\Coursera\Game developing with C# and XNA\Week 6 - Project\Programming Assignment 6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\Ace.xnb
+D:\Coursera\Game developing with C# and XNA\Week 6 - Project\Programming Assignment 6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\Eight.xnb
+D:\Coursera\Game developing with C# and XNA\Week 6 - Project\Programming Assignment 6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\Five.xnb
+D:\Coursera\Game developing with C# and XNA\Week 6 - Project\Programming Assignment 6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\Four.xnb
+D:\Coursera\Game developing with C# and XNA\Week 6 - Project\Programming Assignment 6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\Jack.xnb
+D:\Coursera\Game developing with C# and XNA\Week 6 - Project\Programming Assignment 6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\King.xnb
+D:\Coursera\Game developing with C# and XNA\Week 6 - Project\Programming Assignment 6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\Nine.xnb
+D:\Coursera\Game developing with C# and XNA\Week 6 - Project\Programming Assignment 6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\Queen.xnb
+D:\Coursera\Game developing with C# and XNA\Week 6 - Project\Programming Assignment 6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\Seven.xnb
+D:\Coursera\Game developing with C# and XNA\Week 6 - Project\Programming Assignment 6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\Six.xnb
+D:\Coursera\Game developing with C# and XNA\Week 6 - Project\Programming Assignment 6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\Ten.xnb
+D:\Coursera\Game developing with C# and XNA\Week 6 - Project\Programming Assignment 6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\Three.xnb
+D:\Coursera\Game developing with C# and XNA\Week 6 - Project\Programming Assignment 6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\Content\Spades\Two.xnb
+D:\Coursera\Game developing with C# and XNA\Week 6 - Project\Programming Assignment 6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\ProgrammingAssignment6.exe
+D:\Coursera\Game developing with C# and XNA\Week 6 - Project\Programming Assignment 6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\ProgrammingAssignment6.pdb
+D:\Coursera\Game developing with C# and XNA\Week 6 - Project\Programming Assignment 6\ProgrammingAssignment6\ProgrammingAssignment6\bin\x86\Debug\XnaCards.dll
+D:\Coursera\Game developing with C# and XNA\Week 6 - Project\Programming Assignment 6\ProgrammingAssignment6\ProgrammingAssignment6\obj\x86\Debug\ProgrammingAssignment6.csprojResolveAssemblyReference.cache
+D:\Coursera\Game developing with C# and XNA\Week 6 - Project\Programming Assignment 6\ProgrammingAssignment6\ProgrammingAssignment6\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Coursera\Game developing with C# and XNA\Week 6 - Project\Programming Assignment 6\ProgrammingAssignment6\ProgrammingAssignment6\obj\x86\Debug\ProgrammingAssignment6.exe
+D:\Coursera\Game developing with C# and XNA\Week 6 - Project\Programming Assignment 6\ProgrammingAssignment6\ProgrammingAssignment6\obj\x86\Debug\ProgrammingAssignment6.pdb

@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sections>
+  <WaveBank Name="Wave Bank">Wave Bank
+{
+    Name = Wave Bank;
+    Xbox File = Xbox\Wave Bank.xwb;
+    Windows File = Win\Wave Bank.xwb;
+    Xbox Bank Path Edited = 0;
+    Windows Bank Path Edited = 0;
+    Seek Tables = 1;
+    Compression Preset Name = &lt;none&gt;;
+    Bank Last Revised Low = 3876423684;
+    Bank Last Revised High = 30333116;
+
+    Wave
+    {
+        Name = applause;
+        File = applause.wav;
+        Build Settings Last Modified Low = 3252948736;
+        Build Settings Last Modified High = 30333116;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 8000;
+            Bits Per Sample = 0;
+            Play Region Offset = 44;
+            Play Region Length = 18480;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 4113996032;
+            Last Modified High = 29316108;
+        }
+    }
+
+    Wave
+    {
+        Name = explosion;
+        File = explosion.wav;
+        Build Settings Last Modified Low = 3252958748;
+        Build Settings Last Modified High = 30333116;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 8000;
+            Bits Per Sample = 0;
+            Play Region Offset = 44;
+            Play Region Length = 15298;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3532383232;
+            Last Modified High = 29026033;
+        }
+    }
+
+    Wave
+    {
+        Name = loser;
+        File = loser.wav;
+        Build Settings Last Modified Low = 3252958748;
+        Build Settings Last Modified High = 30333116;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 22050;
+            Bits Per Sample = 0;
+            Play Region Offset = 44;
+            Play Region Length = 30871;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3520431872;
+            Last Modified High = 29608318;
+        }
+    }
+}
+
+</WaveBank>
+</Sections>
